@@ -9,7 +9,7 @@ baseurl: "/LJT-Homepage"
 repository: "coralvendorvoid/LJT-Homepage"
 
 author:
-  avatar: ""
+  avatar: "profile.png"
   name: "Junteng Liu"
   bio: "First-year PhD candidate at HKUST NLP Group"
   employer: "HKUST NLP Group, Hong Kong University of Science and Technology"
